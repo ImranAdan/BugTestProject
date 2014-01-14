@@ -1,1 +1,1 @@
-pribt "Hello"
+print "Hello"
